@@ -12,6 +12,6 @@
 
 https://public.tableau.com/app/profile/agustin.portilla/viz/EstadiosCABA/Dashboard13
 
-**Preview**
+**Preview**:
 
-![image](https://user-images.githubusercontent.com/89322259/144761507-526b8b38-8d7b-4d64-8e7e-7ddc33db9f51.png)
+![image](https://user-images.githubusercontent.com/89322259/144762538-ae07c4f0-27c6-4348-8e37-a7fc9ecc46b9.png)
